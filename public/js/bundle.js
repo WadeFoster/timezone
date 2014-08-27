@@ -88,154 +88,100 @@ setInterval(function(){
 },{"./people.js":2,"./views/app.jsx":3,"moment-timezone":6,"react":144}],2:[function(require,module,exports){
 module.exports = [
   {
-    name: 'Dan',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/dan.jpg',
+    name: 'Bryan',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/bryan-square.jpg',
+    city: 'San Francisco',
+    tz: 'America/Los_Angeles'
+  },
+  {
+    name: 'Wade',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/wade-square.jpg',
+    city: 'San Francisco',
+    tz: 'America/Los_Angeles'
+  },
+  {
+    name: 'Mike',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/mike-square.jpg',
+    city: 'San Francisco',
+    tz: 'America/Los_Angeles'
+  },
+  {
+    name: 'B3',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/b3-square.jpg',
+    city: 'Los Angeles',
+    tz: 'America/Los_Angeles'
+  },
+  {
+    name: 'Kirk',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/kirk-square.jpg',
+    city: 'San Francisco',
+    tz: 'America/Los_Angeles'
+  },
+  {
+    name: 'Micah',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/micah-square.jpg',
+    city: 'Chicago',
+    tz: 'America/Chicago'
+  },
+  {
+    name: 'James',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/james-square.jpg',
+    city: 'Columbia',
+    tz: 'America/Chicago'
+  },
+  {
+    name: 'Cooksey',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/cooksey-square.jpg',
+    city: 'Columbia',
+    tz: 'America/Chicago'
+  },
+  {
+    name: 'Danny',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/danny-square.jpg',
+    city: 'Omaha',
+    tz: 'America/Chicago'
+  },
+  {
+    name: 'Justin',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/justin-square.jpg',
+    city: 'St. Louis',
+    tz: 'America/Chicago'
+  },
+  {
+    name: 'Alison',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/alison-square.jpg',
+    city: 'Nashville',
+    tz: 'America/Chicago'
+  },
+  {
+    name: 'Brandon',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/brandon-square.jpg',
+    city: 'Chicago',
+    tz: 'America/Chicago'
+  },
+  {
+    name: 'Jess',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/jess-square.jpg',
     city: '',
     tz: 'America/New_York'
   },
   {
-    name: 'Niel',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/niel.jpg',
-    city: 'Cape Town',
-    tz: 'Africa/Johannesburg'
-  },
-  {
-    name: 'Sunil',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/sunil.png',
-    city: 'DC',
+    name: 'Chris',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/chris-square.jpg',
+    city: 'Miami',
     tz: 'America/New_York'
   },
   {
-    name: 'Joel',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/joel.png',
-    city: 'San Francisco',
-    tz: 'America/Los_Angeles'
-  },
-  {
-    name: 'Leo',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/leo.png',
-    city: 'San Francisco',
-    tz: 'America/Los_Angeles'
-  },
-  {
-    name: 'Brian',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/brian.png',
-    city: 'San Francisco',
-    tz: 'America/Los_Angeles'
-  },
-  {
-    name: 'Andy',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/andy.jpg',
-    city: 'San Francisco',
-    tz: 'America/Los_Angeles'
-  },
-  {
-    name: 'Åsa',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/asa.jpg',
-    city: 'Stockholm',
-    tz: 'Europe/Stockholm'
-  },
-  {
-    name: 'Carolyn',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/carolyn.jpg',
-    city: 'San Francisco',
-    tz: 'America/Los_Angeles'
-  },
-  {
-    name: 'Colin',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/colin.png',
-    city: 'Cambridgeshire, UK',
+    name: 'Rob',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/rob-square.jpg',
+    city: 'Nottingham',
     tz: 'Europe/London'
   },
   {
-    name: 'Mary',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/mary.jpg',
-    city: 'San Francisco',
-    tz: 'America/Los_Angeles'
-  },
-  {
-    name: 'Adam',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/adam.jpg',
-    city: 'Lapeer, Michigan',
-    tz: 'America/Detroit'
-  },
-  {
-    name: 'Courtney',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/courtney.jpg',
-    city: 'Nashville, TN',
-    tz: 'America/New_York'
-  },
-  {
-    name: 'Daniel',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/daniel.jpg',
-    city: 'Louisville, KY',
-    tz: 'America/New_York'
-  },
-  {
-    name: 'Steven',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/steven.jpg',
-    city: 'Taipei',
-    tz: 'Asia/Taipei'
-  },
-  {
-    name: 'Kevan',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/kevan.png',
-    city: 'Idaho',
-    tz: 'America/Boise'
-  },
-  {
-    name: 'Patrik',
-    avatar: 'https://pbs.twimg.com/profile_images/378800000503098577/09ffa65df454977d788d763a906cf27a_400x400.png',
-    city: 'Knoxville, TN',
-    tz: 'America/New_York'
-  },
-  {
-    name: 'Dave',
-    avatar: 'https://pbs.twimg.com/profile_images/412922052480217088/4h8ehgSp_400x400.jpeg',
-    city: 'London',
-    tz: 'Europe/London'
-  },
-  {
-    name: 'Rodolphe',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/rodolphe.jpg',
-    city: 'Paris',
-    tz: 'Europe/Paris'
-  },
-  {
-    name: 'Nicole',
-    avatar: 'https://pbs.twimg.com/profile_images/438429157081370624/VXdKPSh9_400x400.jpeg',
-    city: 'Portland, OR',
-    tz: 'America/Los_Angeles'
-  },
-  {
-    name: 'Octavio',
-    avatar: 'https://pbs.twimg.com/profile_images/460543526195847168/97f7wvBU_400x400.jpeg',
-    city: 'Morelia, MX',
-    tz: 'America/Mexico_City'
-  },
-  {
-    name: 'Michael',
-    avatar: 'https://d389zggrogs7qo.cloudfront.net/images/team/michael.jpg',
-    city: 'Cape Town',
-    tz: 'Africa/Johannesburg'
-  },
-  {
-    name: 'Mike',
-    avatar: 'https://pbs.twimg.com/profile_images/489294095513178112/xpS3wZwt_400x400.jpeg',
-    city: 'Barcelona',
-    tz: 'Europe/Madrid'
-  },
-  {
-    name: 'Tom',
-    avatar: 'https://pbs.twimg.com/profile_images/453520542453084160/HdqtD5Zm_400x400.jpeg',
-    city: 'Toronto',
-    tz: 'America/New_York'
-  },
-  {
-    name: 'Amanda',
-    avatar: 'https://pbs.twimg.com/profile_images/455154282572967936/uB4HnHO9_400x400.jpeg',
-    city: 'Honolulu',
-    tz: 'Pacific/Honolulu'
+    name: 'Matt',
+    avatar: 'https://zapier.cachefly.net/static/CHLOpJ/images/team/matt-square.jpg',
+    city: 'Bangkok',
+    tz: 'Asia/Bangkok'
   },
 ];
 
@@ -8444,7 +8390,7 @@ module.exports={
 },{"moment":9}],9:[function(require,module,exports){
 (function (global){
 //! moment.js
-//! version : 2.8.1
+//! version : 2.8.2
 //! authors : Tim Wood, Iskren Chernev, Moment.js contributors
 //! license : MIT
 //! momentjs.com
@@ -8455,11 +8401,12 @@ module.exports={
     ************************************/
 
     var moment,
-        VERSION = '2.8.1',
+        VERSION = '2.8.2',
         // the global-scope this is NOT the global object in Node.js
         globalScope = typeof global !== 'undefined' ? global : this,
         oldGlobalMoment,
         round = Math.round,
+        hasOwnProperty = Object.prototype.hasOwnProperty,
         i,
 
         YEAR = 0,
@@ -8533,7 +8480,7 @@ module.exports={
             ['HH', /(T| )\d\d/]
         ],
 
-        // timezone chunker "+10:00" > ["10", "00"] or "-1530" > ["-15", "30"]
+        // timezone chunker '+10:00' > ['10', '00'] or '-1530' > ['-15', '30']
         parseTimezoneChunker = /([\+\-]|\d\d)/gi,
 
         // getter and setter names
@@ -8738,6 +8685,10 @@ module.exports={
         }
     }
 
+    function hasOwnProp(a, b) {
+        return hasOwnProperty.call(a, b);
+    }
+
     function defaultParsingFlags() {
         // We need to deep clone this object, and es5 standard is not very
         // helpful.
@@ -8758,7 +8709,7 @@ module.exports={
     function printMsg(msg) {
         if (moment.suppressDeprecationWarnings === false &&
                 typeof console !== 'undefined' && console.warn) {
-            console.warn("Deprecation warning: " + msg);
+            console.warn('Deprecation warning: ' + msg);
         }
     }
 
@@ -8861,16 +8812,16 @@ module.exports={
 
     function extend(a, b) {
         for (var i in b) {
-            if (b.hasOwnProperty(i)) {
+            if (hasOwnProp(b, i)) {
                 a[i] = b[i];
             }
         }
 
-        if (b.hasOwnProperty('toString')) {
+        if (hasOwnProp(b, 'toString')) {
             a.toString = b.toString;
         }
 
-        if (b.hasOwnProperty('valueOf')) {
+        if (hasOwnProp(b, 'valueOf')) {
             a.valueOf = b.valueOf;
         }
 
@@ -8978,7 +8929,7 @@ module.exports={
             var dur, tmp;
             //invert the arguments, but complain about it
             if (period !== null && !isNaN(+period)) {
-                deprecateSimple(name, "moment()." + name  + "(period, number) is deprecated. Please use moment()." + name + "(number, period).");
+                deprecateSimple(name, 'moment().' + name  + '(period, number) is deprecated. Please use moment().' + name + '(number, period).');
                 tmp = val; val = period; period = tmp;
             }
 
@@ -9048,7 +8999,7 @@ module.exports={
             prop;
 
         for (prop in inputObject) {
-            if (inputObject.hasOwnProperty(prop)) {
+            if (hasOwnProp(inputObject, prop)) {
                 normalizedProp = normalizeUnits(prop);
                 if (normalizedProp) {
                     normalizedInput[normalizedProp] = inputObject[prop];
@@ -9968,7 +9919,7 @@ module.exports={
             config._pf.iso = true;
             for (i = 0, l = isoDates.length; i < l; i++) {
                 if (isoDates[i][1].exec(string)) {
-                    // match[5] should be "T" or undefined
+                    // match[5] should be 'T' or undefined
                     config._f = isoDates[i][0] + (match[6] || ' ');
                     break;
                 }
@@ -10176,7 +10127,7 @@ module.exports={
     moment = function (input, format, locale, strict) {
         var c;
 
-        if (typeof(locale) === "boolean") {
+        if (typeof(locale) === 'boolean') {
             strict = locale;
             locale = undefined;
         }
@@ -10244,7 +10195,7 @@ module.exports={
     moment.utc = function (input, format, locale, strict) {
         var c;
 
-        if (typeof(locale) === "boolean") {
+        if (typeof(locale) === 'boolean') {
             strict = locale;
             locale = undefined;
         }
@@ -10331,7 +10282,7 @@ module.exports={
 
         ret = new Duration(duration);
 
-        if (moment.isDuration(input) && input.hasOwnProperty('_locale')) {
+        if (moment.isDuration(input) && hasOwnProp(input, '_locale')) {
             ret._locale = input._locale;
         }
 
@@ -10368,7 +10319,7 @@ module.exports={
     };
 
     moment.lang = deprecate(
-        "moment.lang is deprecated. Use moment.locale instead.",
+        'moment.lang is deprecated. Use moment.locale instead.',
         function (key, value) {
             return moment.locale(key, value);
         }
@@ -10380,7 +10331,7 @@ module.exports={
     moment.locale = function (key, values) {
         var data;
         if (key) {
-            if (typeof(values) !== "undefined") {
+            if (typeof(values) !== 'undefined') {
                 data = moment.defineLocale(key, values);
             }
             else {
@@ -10415,7 +10366,7 @@ module.exports={
     };
 
     moment.langData = deprecate(
-        "moment.langData is deprecated. Use moment.localeData instead.",
+        'moment.langData is deprecated. Use moment.localeData instead.',
         function (key) {
             return moment.localeData(key);
         }
@@ -10448,7 +10399,7 @@ module.exports={
     // compare moment object
     moment.isMoment = function (obj) {
         return obj instanceof Moment ||
-            (obj != null &&  obj.hasOwnProperty('_isAMomentObject'));
+            (obj != null && hasOwnProp(obj, '_isAMomentObject'));
     };
 
     // for typechecking Duration objects
@@ -10504,7 +10455,7 @@ module.exports={
         },
 
         toString : function () {
-            return this.clone().locale('en').format("ddd MMM DD YYYY HH:mm:ss [GMT]ZZ");
+            return this.clone().locale('en').format('ddd MMM DD YYYY HH:mm:ss [GMT]ZZ');
         },
 
         toDate : function () {
@@ -10887,7 +10838,7 @@ module.exports={
         },
 
         lang : deprecate(
-            "moment().lang() is deprecated. Use moment().localeData() instead.",
+            'moment().lang() is deprecated. Use moment().localeData() instead.',
             function (key) {
                 if (key === undefined) {
                     return this.localeData();
@@ -11119,8 +11070,8 @@ module.exports={
         locale : moment.fn.locale,
 
         toIsoString : deprecate(
-            "toIsoString() is deprecated. Please use toISOString() instead " +
-            "(notice the capitals)",
+            'toIsoString() is deprecated. Please use toISOString() instead ' +
+            '(notice the capitals)',
             function () {
                 return this.toISOString();
             }
@@ -11157,6 +11108,8 @@ module.exports={
         }
     });
 
+    moment.duration.fn.toString = moment.duration.fn.toISOString;
+
     function makeDurationGetter(name) {
         moment.duration.fn[name] = function () {
             return this._data[name];
@@ -11164,7 +11117,7 @@ module.exports={
     }
 
     for (i in unitMillisecondFactors) {
-        if (unitMillisecondFactors.hasOwnProperty(i)) {
+        if (hasOwnProp(unitMillisecondFactors, i)) {
             makeDurationGetter(i.toLowerCase());
         }
     }
